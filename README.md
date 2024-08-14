@@ -12,7 +12,7 @@
 > Make sure git is Installed in your system or quick run `apt-get install git pip curl -y`
 
 ```shell
-git clone https://github.com/Reflection-Mir/modemirror && cd WZML-X 
+git clone https://github.com/Reflection-Mir/modemirror && cd modemirror
 ```
 
 **Step 2 :** Now Install Heroku in your Sytem or checkout Official Heroku Deploy Docs, or Download via `apt-get` or `npm`
